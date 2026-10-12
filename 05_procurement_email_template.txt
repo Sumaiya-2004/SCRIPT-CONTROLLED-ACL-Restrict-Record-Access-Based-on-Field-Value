@@ -1,0 +1,20 @@
+Subject: Approved Laptop Request - [Request Number]
+
+Hello IT Procurement Team,
+
+A laptop request has been approved and is ready for procurement.
+
+Request Number: [Request Number]
+Employee: [Requested For]
+Department: [Department]
+Laptop Model: [Laptop Model]
+Business Justification: [Business Justification]
+Status: Approved
+
+Please arrange the laptop order and update the request status when the purchase is placed and the laptop is delivered.
+
+Regards,
+IT Procurement Automation System
+
+CONFIGURATION NOTE:
+Replace each bracketed placeholder with the appropriate Flow Designer data pill or notification variable. The bracketed text is illustrative, not automatically resolved by ServiceNow.
